@@ -8,3 +8,28 @@ The only thing you need to have is g++ (c++ linux compiler and some libraries i 
 
 Download this project as .ZIP
 
+open terminal and run the following commands
+
+cd Download
+unzip Programming-Fundamentals-project-main.zip
+cd Programming-Fundamentals-project-main
+chmod 777 install-libraries.sh
+./install-libraries.sh
+(it will take sometime to download the libraries, so wait untill downloading finishes)
+
+make
+chmod 777 ./game
+./game
+
+
+Yoooo your game is started.
+Now you have 4 options 
+press 
+1> to start game
+2> to see highscore
+3> for Help
+4> to exit
+
+
+play and have fun!!!!
+

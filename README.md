@@ -6,4 +6,5 @@ Dodge 'Em is a driving-themed maze game programmed by Carla Meninsky and publish
 For playing this gae you will need any linux distribution. I used Ubuntu for this project but will work on any distribution.
 The only thing you need to have is g++ (c++ linux compiler and some libraries i will discuss later).
 
-Download his project as .ZIP and 
+Download this project as .ZIP
+

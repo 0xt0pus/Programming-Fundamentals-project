@@ -17,18 +17,18 @@ chmod 777 install-libraries.sh<br>
 ./install-libraries.sh<br>
 (it will take sometime to download the libraries, so wait untill downloading finishes)
 
-make
-chmod 777 ./game
-./game
+make<br>
+chmod 777 ./game<br>
+./game<br>
 
 
-Yoooo your game is started.
-Now you have 4 options 
-press 
-1> to start game
-2> to see highscore
-3> for Help
-4> to exit
+Yoooo your game is started.<br>
+Now you have 4 options <br>
+press <br>
+1> to start game<br>
+2> to see highscore<br>
+3> for Help<br>
+4> to exit<br>
 
 
 play and have fun!!!!

@@ -10,7 +10,7 @@ Download this project as .ZIP
 
 open terminal and run the following commands
 
-cd Download
+<h>cd Download<h><br>
 unzip Programming-Fundamentals-project-main.zip
 cd Programming-Fundamentals-project-main
 chmod 777 install-libraries.sh

@@ -10,11 +10,11 @@ Download this project as .ZIP
 
 open terminal and run the following commands
 
-<h>cd Download</h><br>
-unzip Programming-Fundamentals-project-main.zip
-cd Programming-Fundamentals-project-main
-chmod 777 install-libraries.sh
-./install-libraries.sh
+cd Download<br>
+unzip Programming-Fundamentals-project-main.zip<br>
+cd Programming-Fundamentals-project-main<br>
+chmod 777 install-libraries.sh<br>
+./install-libraries.sh<br>
 (it will take sometime to download the libraries, so wait untill downloading finishes)
 
 make
